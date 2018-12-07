@@ -8,7 +8,7 @@
     'category': 'Tools',
     'depends': ['base'],
     'data': [
-
+        'views/training_views.xml',
     ],
     'demo': [
       
